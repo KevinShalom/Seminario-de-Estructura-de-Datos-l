@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1665087147 source:c:\users\familia\desktop\github\pilas y colas proyecto\main.cpp
+	<iostream>
+	"Pila.h"
+
+1664488299 c:\users\familia\desktop\github\pilas y colas proyecto\pila.h
+	"Cola.h"
+
+1664488667 c:\users\familia\desktop\github\pilas y colas proyecto\cola.h
+	"Pasajero.h"
+
+1664488299 c:\users\familia\desktop\github\pilas y colas proyecto\pasajero.h
+	<iostream>
+	<string>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1665449775 source:c:\users\familia\desktop\universidad tareas\segundo semestre\sspp 22b\pilas y colas proyecto\main.cpp
+	<iostream>
+	"Pila.h"
+
+1665345176 c:\users\familia\desktop\universidad tareas\segundo semestre\sspp 22b\pilas y colas proyecto\pila.h
+	"Cola.h"
+
+1665347001 c:\users\familia\desktop\universidad tareas\segundo semestre\sspp 22b\pilas y colas proyecto\cola.h
+	"Pasajero.h"
+
+1665450004 c:\users\familia\desktop\universidad tareas\segundo semestre\sspp 22b\pilas y colas proyecto\pasajero.h
+	<iostream>
+	<string>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+

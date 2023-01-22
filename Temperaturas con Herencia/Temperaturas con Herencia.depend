@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1663694091 source:c:\users\usuario\desktop\programas con herencia\temperaturas con herencia\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<string>
+	<math.h>
+
+1663694620 source:e:\temperaturas con herencia\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<string>
+	<math.h>
+

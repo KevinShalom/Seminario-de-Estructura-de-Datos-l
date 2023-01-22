@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1663105101 source:c:\users\familia\desktop\universidad tareas\segundo semestre\sspp 22b\figuras\src\triangulo.cpp
+	"Triangulo.h"
+
+1663105101 c:\users\familia\desktop\universidad tareas\segundo semestre\sspp 22b\figuras\include\triangulo.h
+
+1663118316 source:c:\users\familia\desktop\universidad tareas\segundo semestre\sspp 22b\figuras\src\rectangulo.cpp
+	"Rectangulo.h"
+
+1663105538 c:\users\familia\desktop\universidad tareas\segundo semestre\sspp 22b\figuras\include\rectangulo.h
+
+1663811455 source:c:\users\familia\desktop\universidad tareas\segundo semestre\sspp 22b\figuras\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<string>
+	<math.h>
+	"Triangulo.h"
+	"Rectangulo.h"
+	"Cuadrado.h"
+	"Poligono.h"
+
+1663107329 source:c:\users\familia\desktop\universidad tareas\segundo semestre\sspp 22b\figuras\src\cuadrado.cpp
+	"Cuadrado.h"
+
+1663107329 c:\users\familia\desktop\universidad tareas\segundo semestre\sspp 22b\figuras\include\cuadrado.h
+
+1663114561 source:c:\users\familia\desktop\universidad tareas\segundo semestre\sspp 22b\figuras\src\poligono.cpp
+	"Poligono.h"
+	<math.h>
+
+1663114525 c:\users\familia\desktop\universidad tareas\segundo semestre\sspp 22b\figuras\include\poligono.h
+

@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1664407024 source:c:\users\familia\desktop\github\pila estatica\main.cpp
+	<iostream>
+	"pila.h"
+
+1664407379 c:\users\familia\desktop\github\pila estatica\pila.h
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+
+1664407411 source:c:\users\familia\desktop\universidad tareas\segundo semestre\sspp 22b\pila estatica\main.cpp
+	<iostream>
+	"pila.h"
+
+1664407738 c:\users\familia\desktop\universidad tareas\segundo semestre\sspp 22b\pila estatica\pila.h
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+

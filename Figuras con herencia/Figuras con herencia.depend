@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1663813910 source:e:\figuras con herencia\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<string>
+	<math.h>
+	"Triangulo.h"
+	"Rectangulo.h"
+	"Cuadrado.h"
+
+1663811860 e:\figuras con herencia\include\figuras.h
+
+1663813752 source:e:\figuras con herencia\src\figuras.cpp
+	"Figuras.h"
+	<math.h>
+
+1663813752 e:\figuras con herencia\include\triangulo.h
+	"Figuras.h"
+
+1663813752 source:e:\figuras con herencia\src\triangulo.cpp
+	"Triangulo.h"
+	"Figuras.h"
+	<math.h>
+
+1663813838 e:\figuras con herencia\include\rectangulo.h
+	"Figuras.h"
+
+1663813910 e:\figuras con herencia\include\cuadrado.h
+	"Figuras.h"
+
+1663813910 source:e:\figuras con herencia\src\cuadrado.cpp
+	"Cuadrado.h"
+	"Figuras.h"
+	<math.h>
+
+1663813838 source:e:\figuras con herencia\src\rectangulo.cpp
+	"Rectangulo.h"
+	"Figuras.h"
+	<math.h>
+

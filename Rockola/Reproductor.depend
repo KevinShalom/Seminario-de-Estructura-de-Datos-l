@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1668482256 source:c:\users\familia\desktop\universidad tareas\segundo semestre\sspp 22b\reproductor\main.cpp
+	"Lista.h"
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<string>
+	<string.h>
+	<fstream>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	<MMSystem.h>
+
+1668476164 c:\users\familia\desktop\universidad tareas\segundo semestre\sspp 22b\reproductor\lista.h
+	"Nodo.h"
+	<windows.h>
+	<fstream>
+
+1668395792 c:\users\familia\desktop\universidad tareas\segundo semestre\sspp 22b\reproductor\nodo.h
+	<iostream>
+	<string>
+	<windows.h>
+

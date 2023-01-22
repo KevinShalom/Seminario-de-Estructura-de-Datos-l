@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1660780307 source:c:\users\familia\desktop\universidad tareas\segundo semestre\sspp 22b\practica 1 agenda\main.cpp
+	<iostream>
+	<cstdlib>
+	<string.h>
+

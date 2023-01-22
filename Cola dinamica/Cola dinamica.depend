@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1664846200 source:c:\users\familia\desktop\borradores de programas\cola dinamica\main.cpp
+	<iostream>
+	"Queue.h"
+
+1664847722 c:\users\familia\desktop\borradores de programas\cola dinamica\queue.h
+	"Nodo.h"
+	<cstdlib>
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+
+1664842428 c:\users\familia\desktop\borradores de programas\cola dinamica\nodo.h
+	<iostream>
+

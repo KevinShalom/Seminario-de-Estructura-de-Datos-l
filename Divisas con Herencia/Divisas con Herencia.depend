@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1663815632 source:e:\divisas con herencia\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<string>
+	<math.h>
+	"Dinero.h"
+	"Conversiones.h"
+
+1663815632 e:\divisas con herencia\include\dinero.h
+
+1663815632 e:\divisas con herencia\include\conversiones.h
+	"Dinero.h"
+
+1663815728 source:e:\divisas con herencia\src\conversiones.cpp
+	"Conversiones.h"
+	"Dinero.h"
+
+1663815632 source:e:\divisas con herencia\src\dinero.cpp
+	"Dinero.h"
+
+1663815632 source:c:\users\familia\desktop\universidad tareas\segundo semestre\sspp 22b\divisas con herencia\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<string>
+	<math.h>
+	"Dinero.h"
+	"Conversiones.h"
+
+1663815632 c:\users\familia\desktop\universidad tareas\segundo semestre\sspp 22b\divisas con herencia\include\dinero.h
+
+1663815632 c:\users\familia\desktop\universidad tareas\segundo semestre\sspp 22b\divisas con herencia\include\conversiones.h
+	"Dinero.h"
+
+1663815728 source:c:\users\familia\desktop\universidad tareas\segundo semestre\sspp 22b\divisas con herencia\src\conversiones.cpp
+	"Conversiones.h"
+	"Dinero.h"
+
+1663815632 source:c:\users\familia\desktop\universidad tareas\segundo semestre\sspp 22b\divisas con herencia\src\dinero.cpp
+	"Dinero.h"
+

@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1664743901 source:c:\users\familia\desktop\universidad tareas\segundo semestre\sspp 22b\cola estatica\main.cpp
+	<iostream>
+	<stdlib.h>
+
+1664842221 source:c:\users\familia\desktop\borradores de programas\cola estatica\main.cpp
+	<iostream>
+	"cola.h"
+
+1664846022 c:\users\familia\desktop\borradores de programas\cola estatica\cola.h
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+

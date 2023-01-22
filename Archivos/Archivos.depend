@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1667579070 source:c:\users\familia\desktop\universidad tareas\segundo semestre\sspp 22b\archivos\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1662684486 source:c:\users\familia\desktop\universidad tareas\segundo semestre\sspp 22b\calculadora con punteros\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<string>
+	<cmath>
+

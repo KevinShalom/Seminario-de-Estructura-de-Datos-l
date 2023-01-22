@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1663201635 source:c:\users\familia\desktop\universidad tareas\segundo semestre\sspp 22b\conversor de temperaturas\src\celsiusfahrenheit.cpp
+	"CelsiusFahrenheit.h"
+	<math.h>
+
+1663201635 c:\users\familia\desktop\universidad tareas\segundo semestre\sspp 22b\conversor de temperaturas\include\celsiusfahrenheit.h
+
+1663202067 source:c:\users\familia\desktop\universidad tareas\segundo semestre\sspp 22b\conversor de temperaturas\src\fahrenheitcelsius.cpp
+	"FahrenheitCelsius.h"
+	"math.h"
+
+1663202027 c:\users\familia\desktop\universidad tareas\segundo semestre\sspp 22b\conversor de temperaturas\include\fahrenheitcelsius.h
+
+1663201413 source:c:\users\familia\desktop\universidad tareas\segundo semestre\sspp 22b\conversor de temperaturas\src\kelvincelsius.cpp
+	"KelvinCelsius.h"
+	<math.h>
+
+1663201390 c:\users\familia\desktop\universidad tareas\segundo semestre\sspp 22b\conversor de temperaturas\include\kelvincelsius.h
+
+1663205403 source:c:\users\familia\desktop\universidad tareas\segundo semestre\sspp 22b\conversor de temperaturas\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<string>
+	<math.h>
+	"CelsiusKelvin.h"
+	"KelvinCelsius.h"
+	"CelsiusFahrenheit.h"
+	"FahrenheitCelsius.h"
+
+1663200916 c:\users\familia\desktop\universidad tareas\segundo semestre\sspp 22b\conversor de temperaturas\include\celsiuskelvin.h
+
+1663201255 source:c:\users\familia\desktop\universidad tareas\segundo semestre\sspp 22b\conversor de temperaturas\src\celsiuskelvin.cpp
+	"CelsiusKelvin.h"
+	<math.h>
+
